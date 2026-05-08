@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="50">
+  <defs>
+    <linearGradient id="quote-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%">
+        <animate attributeName="stop-color" values="#EA4335;#4285F4;#34A853;#FBBC05;#EA4335" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%">
+        <animate attributeName="stop-color" values="#FBBC05;#34A853;#4285F4;#EA4335;#FBBC05" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%">
+        <animate attributeName="stop-color" values="#34A853;#FBBC05;#EA4335;#4285F4;#34A853" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <!-- Quote 1 -->
+  <text x="400" y="25" text-anchor="middle" dominant-baseline="middle"
+        font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="url(#quote-grad)">
+    Creative defines Sandeep. Code secures the world. Music moves it.
+    <animate attributeName="opacity" values="1;1;0;0;0;0;1" dur="12s" repeatCount="indefinite"/>
+  </text>
+  <!-- Quote 2 -->
+  <text x="400" y="25" text-anchor="middle" dominant-baseline="middle"
+        font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="url(#quote-grad)">
+    I don't just find vulnerabilities — I build the tools that do.
+    <animate attributeName="opacity" values="0;0;0;1;1;0;0" dur="12s" repeatCount="indefinite"/>
+  </text>
+</svg>

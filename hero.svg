@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="140">
+  <defs>
+    <linearGradient id="google-wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%">
+        <animate attributeName="stop-color" values="#4285F4;#34A853;#FBBC05;#EA4335;#4285F4" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="30%">
+        <animate attributeName="stop-color" values="#EA4335;#4285F4;#34A853;#FBBC05;#EA4335" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="60%">
+        <animate attributeName="stop-color" values="#FBBC05;#EA4335;#4285F4;#34A853;#FBBC05" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%">
+        <animate attributeName="stop-color" values="#34A853;#FBBC05;#EA4335;#4285F4;#34A853" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="hero-glow">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <text x="400" y="55" text-anchor="middle" dominant-baseline="middle"
+        font-family="'Segoe UI', Roboto, 'Helvetica Neue', sans-serif"
+        font-size="60" font-weight="900" fill="url(#google-wave)" filter="url(#hero-glow)">
+    SANDEEP KARMATA
+    <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/>
+  </text>
+  <line x1="300" y1="85" x2="500" y2="85" stroke="#4285F4" stroke-width="2" stroke-linecap="round" opacity="0.6">
+    <animate attributeName="x1" values="400;300" dur="1.5s" fill="freeze"/>
+    <animate attributeName="x2" values="400;500" dur="1.5s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;0.6" dur="1.5s" fill="freeze"/>
+  </line>
+  <text x="400" y="115" text-anchor="middle" dominant-baseline="middle"
+        font-family="'Segoe UI', Roboto, 'Helvetica Neue', sans-serif"
+        font-size="16" font-weight="600" fill="#8B949E" letter-spacing="5">
+    GOOGLE DEVELOPER  ·  CYBERSECURITY ENGINEER
+    <animate attributeName="opacity" values="0;0;1" dur="2s" fill="freeze"/>
+  </text>
+</svg>

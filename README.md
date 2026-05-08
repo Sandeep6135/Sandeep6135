@@ -1,33 +1,54 @@
 <div align="center">
 
-<!-- ANIMATED GOOGLE HERO HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&animation=twinkling"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🌊 ANIMATED WAVING HEADER                                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4&height=220&section=header&animation=twinkling"/>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🎯 HERO: ANIMATED NAME + SUBTITLE                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <a href="https://github.com/Sandeep6135">
-  <img src="./glitch.svg" alt="SANDEEP KARMATA" />
+  <img src="./hero.svg" alt="SANDEEP KARMATA" width="800"/>
 </a>
 
-<img src="./floating.svg" alt="Roles" />
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 💊 FLOATING ROLE PILLS                                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="./roles.svg" alt="Roles" width="800"/>
 
 <br/><br/>
 
-<!-- GOOGLE MATERIAL BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Google_Developer_Program-Premium-4285F4?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSSoC_2026-Contributor-EA4335?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/B.Tech-Cyber_Security-FBBC05?style=flat-square&logo=bookmeter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Infotact_Solutions-Completed-34A853?style=flat-square&logo=checkmarx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Takshashila_Studios-Founder-4285F4?style=flat-square&logo=youtube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sanzaar-Artist-EA4335?style=flat-square&logo=spotify&logoColor=white"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🏷️ GOOGLE MATERIAL BADGES                                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<p>
+  <a href="https://developers.google.com/profile/u/Sandeep6135"><img src="https://img.shields.io/badge/Google_Developer_Program-Premium-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>&nbsp;
+  <a href="https://gssoc.girlscript.tech/"><img src="https://img.shields.io/badge/GSSoC_2026-Contributor-EA4335?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/B.Tech-Cyber_Security-FBBC05?style=for-the-badge&logo=bookmeter&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Infotact_Solutions-Completed-34A853?style=for-the-badge&logo=checkmarx&logoColor=white"/>&nbsp;
+  <a href="https://youtube.com"><img src="https://img.shields.io/badge/Takshashila_Studios-Founder-4285F4?style=for-the-badge&logo=youtube&logoColor=white"/></a>&nbsp;
+  <a href="https://open.spotify.com"><img src="https://img.shields.io/badge/Sanzaar-Artist-EA4335?style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </p>
 
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center"><img src="./dots.svg" alt="divider" width="200"/></div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 💻 SECTION: WHOAMI                                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=24&duration=4000&pause=1000&color=4285F4&center=true&vCenter=true&width=400&lines=➤+SYSTEM_INIT:+WHOAMI" />
+  <img src="./header_whoami.svg" alt="SYSTEM_INIT: WHOAMI" width="500"/>
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -49,9 +70,20 @@ const sandeep = {
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center"><img src="./dots.svg" alt="divider" width="200"/></div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🛠️ SECTION: CURRENTLY BUILDING                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="./zoom.svg" alt="CURRENTLY BUILDING" />
+  <img src="./header_building.svg" alt="CURRENTLY BUILDING" width="500"/>
 </div>
+
+<br/>
 
 <div align="center">
 <table>
@@ -99,9 +131,20 @@ Focus: "Automated Shift-Left"
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center"><img src="./dots.svg" alt="divider" width="200"/></div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 💼 SECTION: EXPERIENCE & JOURNEY                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="./cut.svg" alt="EXPERIENCE & JOURNEY" />
+  <img src="./header_experience.svg" alt="EXPERIENCE & JOURNEY" width="500"/>
 </div>
+
+<br/>
 
 <div align="center">
 <table>
@@ -135,40 +178,63 @@ Projects:
 </table>
 
 <br/>
-<a href="https://tryhackme.com/p/Sandeep6135"><img src="https://img.shields.io/badge/TryHackMe-Sandeep6135-00FF41?style=flat-square&logo=tryhackme&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://leetcode.com/Sandeep6135"><img src="https://img.shields.io/badge/LeetCode-Sandeep6135-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://www.hackthebox.com/"><img src="https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=flat-square&logo=hackthebox&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://gssoc.girlscript.tech/"><img src="https://img.shields.io/badge/GSSoC_2026-Contributor-00FF41?style=flat-square&labelColor=0D1117"/></a>
-<img src="https://img.shields.io/badge/Google_Developer_Program-Premium-00F7FF?style=flat-square&logo=google&logoColor=white&labelColor=0D1117"/>
+
+<a href="https://tryhackme.com/p/Sandeep6135"><img src="https://img.shields.io/badge/TryHackMe-Sandeep6135-00FF41?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0D1117"/></a>&nbsp;
+<a href="https://leetcode.com/Sandeep6135"><img src="https://img.shields.io/badge/LeetCode-Sandeep6135-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117"/></a>&nbsp;
+<a href="https://www.hackthebox.com/"><img src="https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D1117"/></a>&nbsp;
+<a href="https://gssoc.girlscript.tech/"><img src="https://img.shields.io/badge/GSSoC_2026-Contributor-00FF41?style=for-the-badge&labelColor=0D1117"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Google_Developer_Program-Premium-00F7FF?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117"/>
 
 </div>
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center"><img src="./dots.svg" alt="divider" width="200"/></div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ⚡ SECTION: CYBER ARSENAL                                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="./shake.svg" alt="CYBER ARSENAL" />
+  <img src="./header_arsenal.svg" alt="CYBER ARSENAL" width="500"/>
+  
   <br/><br/>
   
-  <p align="center">
+  <p>
     <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,git,github,docker,vscode,html,css,js,flask&perline=12" />
   </p>
   
   <br/>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Burp_Suite-4285F4?style=flat-square&logo=hackthebox&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Metasploit-EA4335?style=flat-square&logo=metasploit&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Nmap-FBBC05?style=flat-square&logo=gnubash&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Wireshark-34A853?style=flat-square&logo=wireshark&logoColor=white"/>
-    <img src="https://img.shields.io/badge/OWASP_ZAP-4285F4?style=flat-square&logo=owasp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kali_Linux-EA4335?style=flat-square&logo=kalilinux&logoColor=white"/>
+
+  <p>
+    <img src="https://img.shields.io/badge/Burp_Suite-4285F4?style=for-the-badge&logo=hackthebox&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Metasploit-EA4335?style=for-the-badge&logo=metasploit&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Nmap-FBBC05?style=for-the-badge&logo=gnubash&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Wireshark-34A853?style=for-the-badge&logo=wireshark&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/OWASP_ZAP-4285F4?style=for-the-badge&logo=owasp&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Kali_Linux-EA4335?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   </p>
 </div>
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center"><img src="./dots.svg" alt="divider" width="200"/></div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🎵 SECTION: CREATIVE CIPHER                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="./glow.svg" alt="CREATIVE CIPHER" />
+  <img src="./header_creative.svg" alt="CREATIVE CIPHER" width="500"/>
 </div>
+
+<br/>
 
 <div align="center">
 <table>
@@ -204,43 +270,68 @@ Tagline:   "Create. Compose. Command."
 </table>
 
 <br/>
-<img src="./morph.svg" alt="Where Binary Meets Beats. Code Meets Composition. Chaos Meets Craft." />
+
+<img src="./tagline.svg" alt="Where Binary Meets Beats. Code Meets Composition. Chaos Meets Craft." width="800"/>
+
 </div>
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center"><img src="./dots.svg" alt="divider" width="200"/></div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 📊 SECTION: GITHUB COMMAND CENTER                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=24&duration=4000&pause=1000&color=EA4335&center=true&vCenter=true&width=500&lines=📊+GITHUB+COMMAND+CENTER" />
+  <img src="./header_stats.svg" alt="GITHUB COMMAND CENTER" width="500"/>
   
   <br/><br/>
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandeep6135&show_icons=true&hide_border=true&bg_color=00000000&title_color=4285F4&icon_color=EA4335&text_color=8B949E&ring_color=FBBC05" alt="Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=Sandeep6135&hide_border=true&background=00000000&stroke=4285F4&ring=EA4335&fire=FBBC05&currStreakLabel=34A853&currStreakNum=4285F4" alt="Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandeep6135&show_icons=true&hide_border=true&bg_color=00000000&title_color=4285F4&icon_color=EA4335&text_color=8B949E&ring_color=FBBC05" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Sandeep6135&hide_border=true&background=00000000&stroke=4285F4&ring=EA4335&fire=FBBC05&currStreakLabel=34A853&currStreakNum=4285F4" alt="GitHub Streak"/>
   
   <br/>
   
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeep6135&bg_color=00000000&color=4285F4&line=34A853&point=EA4335&area=true&hide_border=true" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeep6135&bg_color=00000000&color=4285F4&line=34A853&point=EA4335&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center"><img src="./dots.svg" alt="divider" width="200"/></div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🚀 SECTION: ESTABLISH CONNECTION                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=24&duration=4000&pause=1000&color=4285F4&center=true&vCenter=true&width=400&lines=🚀+ESTABLISH+CONNECTION" />
+  <img src="./header_connect.svg" alt="ESTABLISH CONNECTION" width="500"/>
   
   <br/><br/>
   
-  <a href="mailto:Skyline.6135@gmail.com"><img src="https://img.shields.io/badge/Gmail-Skyline.6135-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/sandeepkarmata"><img src="https://img.shields.io/badge/LinkedIn-sandeepkarmata-4285F4?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Sandeep6135"><img src="https://img.shields.io/badge/GitHub-Sandeep6135-FBBC05?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="mailto:Skyline.6135@gmail.com"><img src="https://img.shields.io/badge/Gmail-Skyline.6135-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://linkedin.com/in/sandeepkarmata"><img src="https://img.shields.io/badge/LinkedIn-sandeepkarmata-4285F4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/Sandeep6135"><img src="https://img.shields.io/badge/GitHub-Sandeep6135-FBBC05?style=for-the-badge&logo=github&logoColor=white"/></a>
   
   <br/><br/>
   
-  <img src="https://komarev.com/ghpvc/?username=Sandeep6135&color=34A853&style=flat-square&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=Sandeep6135&color=34A853&style=for-the-badge&label=PROFILE+VIEWS"/>
   
   <br/><br/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=24&duration=4000&pause=1000&color=EA4335&center=true&vCenter=true&width=800&lines=Creative+defines+Sandeep.;Code+secures+the+world.;Music+moves+it." />
+  <img src="./footer_quote.svg" alt="Creative defines Sandeep. Code secures the world. Music moves it." width="800"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&animation=twinkling"/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🌊 ANIMATED WAVING FOOTER                                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4&height=180&section=footer&animation=twinkling"/>

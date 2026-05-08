@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="60">
+  <defs>
+    <filter id="morph-soft">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0.5"/>
+    </filter>
+  </defs>
+  <!-- Phrase 1: Where Binary Meets Beats -->
+  <text x="400" y="30" text-anchor="middle" dominant-baseline="middle"
+        font-family="'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="700" fill="#4285F4">
+    "Where Binary Meets Beats."
+    <animate attributeName="opacity" values="0;0;1;1;1;0;0;0;0;0;0;0" dur="9s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,8;0,0;0,0;0,0;0,-8" dur="9s" repeatCount="indefinite"/>
+  </text>
+  <!-- Phrase 2: Code Meets Composition -->
+  <text x="400" y="30" text-anchor="middle" dominant-baseline="middle"
+        font-family="'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="700" fill="#EA4335">
+    "Code Meets Composition."
+    <animate attributeName="opacity" values="0;0;0;0;0;1;1;1;0;0;0;0" dur="9s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,8;0,8;0,0;0,0;0,-8" dur="9s" repeatCount="indefinite"/>
+  </text>
+  <!-- Phrase 3: Chaos Meets Craft -->
+  <text x="400" y="30" text-anchor="middle" dominant-baseline="middle"
+        font-family="'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="700" fill="#FBBC05">
+    "Chaos Meets Craft."
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;1;1;1;0" dur="9s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,8;0,8;0,8;0,0;0,-8" dur="9s" repeatCount="indefinite"/>
+  </text>
+</svg>

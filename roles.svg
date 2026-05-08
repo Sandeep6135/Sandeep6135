@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="50">
+  <defs>
+    <filter id="pill-shadow">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="1.5"/>
+      <feOffset dy="1" result="shadow"/>
+      <feFlood flood-color="#000" flood-opacity="0.1"/>
+      <feComposite in2="shadow" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <!-- Google Dev Program -->
+  <g filter="url(#pill-shadow)">
+    <rect x="30" y="7" width="165" height="32" rx="16" fill="#4285F4" opacity="0.12"/>
+    <rect x="30" y="7" width="165" height="32" rx="16" fill="none" stroke="#4285F4" stroke-width="1.2" opacity="0.5"/>
+    <text x="112" y="24" text-anchor="middle" dominant-baseline="middle"
+          font-family="'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" fill="#4285F4">
+      Google Dev Program
+    </text>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3s" repeatCount="indefinite" begin="0s"/>
+  </g>
+  <!-- GSSoC 2026 -->
+  <g filter="url(#pill-shadow)">
+    <rect x="215" y="7" width="120" height="32" rx="16" fill="#EA4335" opacity="0.12"/>
+    <rect x="215" y="7" width="120" height="32" rx="16" fill="none" stroke="#EA4335" stroke-width="1.2" opacity="0.5"/>
+    <text x="275" y="24" text-anchor="middle" dominant-baseline="middle"
+          font-family="'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" fill="#EA4335">
+      GSSoC 2026
+    </text>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3s" repeatCount="indefinite" begin="0.5s"/>
+  </g>
+  <!-- Takshashila Studios -->
+  <g filter="url(#pill-shadow)">
+    <rect x="355" y="7" width="175" height="32" rx="16" fill="#FBBC05" opacity="0.12"/>
+    <rect x="355" y="7" width="175" height="32" rx="16" fill="none" stroke="#FBBC05" stroke-width="1.2" opacity="0.5"/>
+    <text x="442" y="24" text-anchor="middle" dominant-baseline="middle"
+          font-family="'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" fill="#FBBC05">
+      Takshashila Studios
+    </text>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3s" repeatCount="indefinite" begin="1s"/>
+  </g>
+  <!-- Sanzaar -->
+  <g filter="url(#pill-shadow)">
+    <rect x="550" y="7" width="110" height="32" rx="16" fill="#34A853" opacity="0.12"/>
+    <rect x="550" y="7" width="110" height="32" rx="16" fill="none" stroke="#34A853" stroke-width="1.2" opacity="0.5"/>
+    <text x="605" y="24" text-anchor="middle" dominant-baseline="middle"
+          font-family="'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" fill="#34A853">
+      Sanzaar
+    </text>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3s" repeatCount="indefinite" begin="1.5s"/>
+  </g>
+  <!-- Cyber Security -->
+  <g filter="url(#pill-shadow)">
+    <rect x="680" y="7" width="100" height="32" rx="16" fill="#4285F4" opacity="0.12"/>
+    <rect x="680" y="7" width="100" height="32" rx="16" fill="none" stroke="#4285F4" stroke-width="1.2" opacity="0.5"/>
+    <text x="730" y="24" text-anchor="middle" dominant-baseline="middle"
+          font-family="'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" fill="#4285F4">
+      B.Tech CSE
+    </text>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3s" repeatCount="indefinite" begin="2s"/>
+  </g>
+</svg>
