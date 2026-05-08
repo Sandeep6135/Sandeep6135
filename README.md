@@ -284,19 +284,74 @@ Tagline:   "Create. Compose. Command."
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🎧 SECTION: NOW PLAYING                                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img src="./header_nowplaying.svg" alt="NOW PLAYING" width="500"/>
+
+  <br/><br/>
+
+  <a href="https://open.spotify.com"><img src="https://img.shields.io/badge/Spotify-Sanzaar-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>&nbsp;
+  <a href="https://youtube.com"><img src="https://img.shields.io/badge/YouTube-Takshashila_Studios-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>&nbsp;
+  <a href="https://music.apple.com"><img src="https://img.shields.io/badge/Apple_Music-Sanzaar-FA243C?style=for-the-badge&logo=apple-music&logoColor=white"/></a>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/🎹_10+_Instruments-FBBC05?style=for-the-badge"/>&nbsp;
+  <img src="https://img.shields.io/badge/🎤_Original_Compositions-EA4335?style=for-the-badge"/>&nbsp;
+  <img src="https://img.shields.io/badge/🎧_All_Major_Platforms-34A853?style=for-the-badge"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center"><img src="./dots.svg" alt="divider" width="200"/></div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
 <!-- 📊 SECTION: GITHUB COMMAND CENTER                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
   <img src="./header_stats.svg" alt="GITHUB COMMAND CENTER" width="500"/>
   
   <br/><br/>
+
+  <!-- 🏆 TROPHIES -->
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Sandeep6135&theme=algolia&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies"/>
+
+  <br/>
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandeep6135&show_icons=true&hide_border=true&bg_color=00000000&title_color=4285F4&icon_color=EA4335&text_color=8B949E&ring_color=FBBC05" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=Sandeep6135&hide_border=true&background=00000000&stroke=4285F4&ring=EA4335&fire=FBBC05&currStreakLabel=34A853&currStreakNum=4285F4" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandeep6135&show_icons=true&hide_border=true&bg_color=00000000&title_color=4285F4&icon_color=EA4335&text_color=8B949E&ring_color=FBBC05&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Sandeep6135&hide_border=true&background=00000000&stroke=4285F4&ring=EA4335&fire=FBBC05&currStreakLabel=34A853&currStreakNum=4285F4&sideNums=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak"/>
   
   <br/>
   
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeep6135&bg_color=00000000&color=4285F4&line=34A853&point=EA4335&area=true&hide_border=true" alt="Activity Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeep6135&bg_color=00000000&color=4285F4&line=34A853&point=EA4335&area=true&hide_border=true&area_color=4285F4" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center"><img src="./dots.svg" alt="divider" width="200"/></div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🐍 SECTION: CONTRIBUTION SNAKE                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img src="./header_snake.svg" alt="CONTRIBUTION SNAKE" width="500"/>
+  
+  <br/><br/>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandeep6135/Sandeep6135/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandeep6135/Sandeep6135/output/github-snake.svg" />
+    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Sandeep6135/Sandeep6135/output/github-snake.svg" width="100%"/>
+  </picture>
 </div>
 
 <br/>

@@ -12,16 +12,16 @@
       </stop>
     </linearGradient>
   </defs>
-  <!-- Quote 1 -->
   <text x="400" y="25" text-anchor="middle" dominant-baseline="middle"
         font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="url(#quote-grad)">
     Creative defines Sandeep. Code secures the world. Music moves it.
-    <animate attributeName="opacity" values="1;1;0;0;0;0;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" dur="10s" repeatCount="indefinite"
+      values="0;1;1;0;0;0" keyTimes="0;0.04;0.46;0.5;0.51;1"/>
   </text>
-  <!-- Quote 2 -->
   <text x="400" y="25" text-anchor="middle" dominant-baseline="middle"
         font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="url(#quote-grad)">
     I don't just find vulnerabilities — I build the tools that do.
-    <animate attributeName="opacity" values="0;0;0;1;1;0;0" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" dur="10s" repeatCount="indefinite"
+      values="0;0;0;1;1;0" keyTimes="0;0.46;0.5;0.54;0.96;1"/>
   </text>
 </svg>
