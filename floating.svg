@@ -1,0 +1,18 @@
+<svg width="800" height="80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&amp;display=swap');
+    .float { font-family: 'Roboto', sans-serif; font-size: 20px; font-weight: 700; text-anchor: middle; dominant-baseline: middle; }
+    .c1 { fill: #EA4335; animation: float 3s ease-in-out infinite; }
+    .c2 { fill: #4285F4; animation: float 3s ease-in-out infinite 0.75s; }
+    .c3 { fill: #FBBC05; animation: float 3s ease-in-out infinite 1.5s; }
+    .c4 { fill: #34A853; animation: float 3s ease-in-out infinite 2.25s; }
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-12px); }
+    }
+  </style>
+  <text x="15%" y="50%" class="float c1">Google Dev Program</text>
+  <text x="40%" y="50%" class="float c2">GSSoC 2026</text>
+  <text x="65%" y="50%" class="float c3">Takshashila Studios</text>
+  <text x="88%" y="50%" class="float c4">Sanzaar</text>
+</svg>

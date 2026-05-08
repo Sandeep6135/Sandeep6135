@@ -1,0 +1,11 @@
+<svg width="500" height="80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&amp;display=swap');
+    .glow { font-family: 'Roboto', sans-serif; font-size: 32px; font-weight: 900; fill: #FBBC05; text-anchor: middle; dominant-baseline: middle; animation: glow 2s infinite alternate; }
+    @keyframes glow {
+      0% { text-shadow: 0 0 5px #FBBC05, 0 0 10px #FBBC05; fill: #FBBC05; }
+      100% { text-shadow: 0 0 20px #EA4335, 0 0 30px #EA4335; fill: #EA4335; }
+    }
+  </style>
+  <text x="50%" y="50%" class="glow">🎵 CREATIVE CIPHER</text>
+</svg>

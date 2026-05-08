@@ -1,0 +1,14 @@
+<svg width="500" height="80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&amp;display=swap');
+    .shake { font-family: 'Roboto', sans-serif; font-size: 32px; font-weight: 900; fill: #EA4335; text-anchor: middle; dominant-baseline: middle; animation: shake 2.5s infinite; transform-origin: center; }
+    @keyframes shake {
+      0%, 80% { transform: rotate(0deg); }
+      85% { transform: rotate(3deg); fill: #4285F4; }
+      90% { transform: rotate(-3deg); fill: #FBBC05; }
+      95% { transform: rotate(3deg); fill: #34A853; }
+      100% { transform: rotate(0deg); }
+    }
+  </style>
+  <text x="50%" y="50%" class="shake">⚡ CYBER ARSENAL</text>
+</svg>
