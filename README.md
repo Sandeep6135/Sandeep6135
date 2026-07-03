@@ -83,8 +83,8 @@ I am a **Cybersecurity Engineer** and **Creative Technologist** passionate about
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Sandeep6135&show_icons=true&hide_border=true&bg_color=2e3440&title_color=88c0d0&icon_color=81a1c1&text_color=d8dee9&count_private=true&rank_icon=github" alt="GitHub Stats" width="48%"/>&nbsp;
-  <img src="https://streak-stats.demolab.com?user=Sandeep6135&hide_border=true&background=2e3440&stroke=4c566a&ring=88c0d0&fire=81a1c1&currStreakLabel=a3be8c&currStreakNum=88c0d0&sideNums=d8dee9&sideLabels=d8dee9&dates=81a1c1" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Sandeep6135&show_icons=true&hide_border=true&bg_color=2e3440&title_color=88c0d0&icon_color=81a1c1&text_color=d8dee9&count_private=true&rank_icon=github" alt="GitHub Stats" height="195"/>&nbsp;
+  <img src="https://streak-stats.demolab.com?user=Sandeep6135&hide_border=true&background=2e3440&stroke=4c566a&ring=88c0d0&fire=81a1c1&currStreakLabel=a3be8c&currStreakNum=88c0d0&sideNums=d8dee9&sideLabels=d8dee9&dates=81a1c1" alt="GitHub Streak" height="195"/>
 </div>
 
 <br/>
