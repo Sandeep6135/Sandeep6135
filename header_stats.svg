@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="60">
   <defs>
     <linearGradient id="stats-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#EA4335">
-        <animate attributeName="stop-color" values="#EA4335;#4285F4;#EA4335" dur="5s" repeatCount="indefinite"/>
+      <stop offset="0%" stop-color="#FF007F">
+        <animate attributeName="stop-color" values="#FF007F;#00F7FF;#FF007F" dur="5s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#FBBC05">
-        <animate attributeName="stop-color" values="#FBBC05;#34A853;#FBBC05" dur="5s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#BD93F9">
+        <animate attributeName="stop-color" values="#BD93F9;#00FF87;#BD93F9" dur="5s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
   </defs>
@@ -14,28 +14,28 @@
     📊 GITHUB COMMAND CENTER
   </text>
   <!-- Animated bar chart icon -->
-  <rect x="150" y="40" width="8" height="12" rx="1" fill="#4285F4">
+  <rect x="150" y="40" width="8" height="12" rx="1" fill="#00F7FF">
     <animate attributeName="height" values="4;12;4" dur="2s" repeatCount="indefinite" begin="0s"/>
     <animate attributeName="y" values="48;40;48" dur="2s" repeatCount="indefinite" begin="0s"/>
   </rect>
-  <rect x="162" y="38" width="8" height="14" rx="1" fill="#EA4335">
+  <rect x="162" y="38" width="8" height="14" rx="1" fill="#FF007F">
     <animate attributeName="height" values="6;14;6" dur="2s" repeatCount="indefinite" begin="0.3s"/>
     <animate attributeName="y" values="46;38;46" dur="2s" repeatCount="indefinite" begin="0.3s"/>
   </rect>
-  <rect x="174" y="36" width="8" height="16" rx="1" fill="#FBBC05">
+  <rect x="174" y="36" width="8" height="16" rx="1" fill="#BD93F9">
     <animate attributeName="height" values="8;16;8" dur="2s" repeatCount="indefinite" begin="0.6s"/>
     <animate attributeName="y" values="44;36;44" dur="2s" repeatCount="indefinite" begin="0.6s"/>
   </rect>
   <!-- Mirror on right -->
-  <rect x="318" y="40" width="8" height="12" rx="1" fill="#34A853">
+  <rect x="318" y="40" width="8" height="12" rx="1" fill="#00FF87">
     <animate attributeName="height" values="4;12;4" dur="2s" repeatCount="indefinite" begin="0.15s"/>
     <animate attributeName="y" values="48;40;48" dur="2s" repeatCount="indefinite" begin="0.15s"/>
   </rect>
-  <rect x="330" y="38" width="8" height="14" rx="1" fill="#4285F4">
+  <rect x="330" y="38" width="8" height="14" rx="1" fill="#00F7FF">
     <animate attributeName="height" values="6;14;6" dur="2s" repeatCount="indefinite" begin="0.45s"/>
     <animate attributeName="y" values="46;38;46" dur="2s" repeatCount="indefinite" begin="0.45s"/>
   </rect>
-  <rect x="342" y="36" width="8" height="16" rx="1" fill="#EA4335">
+  <rect x="342" y="36" width="8" height="16" rx="1" fill="#FF007F">
     <animate attributeName="height" values="8;16;8" dur="2s" repeatCount="indefinite" begin="0.75s"/>
     <animate attributeName="y" values="44;36;44" dur="2s" repeatCount="indefinite" begin="0.75s"/>
   </rect>

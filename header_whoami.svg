@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="60">
   <defs>
     <linearGradient id="wh-line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#4285F4"/>
-      <stop offset="50%" stop-color="#34A853"/>
-      <stop offset="100%" stop-color="#4285F4"/>
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="50%" stop-color="#BD93F9"/>
+      <stop offset="100%" stop-color="#FF007F"/>
     </linearGradient>
   </defs>
   <!-- Blinking cursor -->
-  <rect x="22" y="12" width="3" height="26" fill="#34A853">
+  <rect x="22" y="12" width="3" height="26" fill="#00FF87">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
   <!-- Terminal prompt text -->
-  <text x="35" y="30" font-family="'Cascadia Code', 'Fira Code', 'Consolas', monospace"
-        font-size="22" font-weight="700" fill="#4285F4" letter-spacing="1">
+  <text x="35" y="30" font-family="'Cascadia Code', 'Fira Code', 'Consolas', monospace, sans-serif"
+        font-size="22" font-weight="700" fill="#00F7FF" letter-spacing="1">
     ➤ SYSTEM_INIT: WHOAMI
     <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
   </text>

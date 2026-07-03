@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="50">
   <defs>
     <filter id="pill-shadow">
-      <feGaussianBlur in="SourceAlpha" stdDeviation="1.5"/>
-      <feOffset dy="1" result="shadow"/>
-      <feFlood flood-color="#000" flood-opacity="0.1"/>
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2"/>
+      <feOffset dy="2" result="shadow"/>
+      <feFlood flood-color="#000" flood-opacity="0.3"/>
       <feComposite in2="shadow" operator="in"/>
       <feMerge>
         <feMergeNode/>
@@ -11,54 +11,59 @@
       </feMerge>
     </filter>
   </defs>
-  <!-- Google Dev Program -->
+  
+  <!-- DevSecOps -->
   <g filter="url(#pill-shadow)">
-    <rect x="30" y="7" width="165" height="32" rx="16" fill="#4285F4" opacity="0.12"/>
-    <rect x="30" y="7" width="165" height="32" rx="16" fill="none" stroke="#4285F4" stroke-width="1.2" opacity="0.5"/>
-    <text x="112" y="24" text-anchor="middle" dominant-baseline="middle"
-          font-family="'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" fill="#4285F4">
-      Google Dev Program
+    <rect x="40" y="7" width="120" height="32" rx="16" fill="#00F7FF" opacity="0.12"/>
+    <rect x="40" y="7" width="120" height="32" rx="16" fill="none" stroke="#00F7FF" stroke-width="1.5" opacity="0.6"/>
+    <text x="100" y="24" text-anchor="middle" dominant-baseline="middle"
+          font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="800" fill="#00F7FF" letter-spacing="1">
+      DevSecOps
     </text>
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3s" repeatCount="indefinite" begin="0s"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="3s" repeatCount="indefinite" begin="0s"/>
   </g>
+  
   <!-- GSSoC 2026 -->
   <g filter="url(#pill-shadow)">
-    <rect x="215" y="7" width="120" height="32" rx="16" fill="#EA4335" opacity="0.12"/>
-    <rect x="215" y="7" width="120" height="32" rx="16" fill="none" stroke="#EA4335" stroke-width="1.2" opacity="0.5"/>
-    <text x="275" y="24" text-anchor="middle" dominant-baseline="middle"
-          font-family="'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" fill="#EA4335">
+    <rect x="185" y="7" width="115" height="32" rx="16" fill="#FF007F" opacity="0.12"/>
+    <rect x="185" y="7" width="115" height="32" rx="16" fill="none" stroke="#FF007F" stroke-width="1.5" opacity="0.6"/>
+    <text x="242.5" y="24" text-anchor="middle" dominant-baseline="middle"
+          font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="800" fill="#FF007F" letter-spacing="1">
       GSSoC 2026
     </text>
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3s" repeatCount="indefinite" begin="0.5s"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="3s" repeatCount="indefinite" begin="0.6s"/>
   </g>
+  
   <!-- Takshashila Studios -->
   <g filter="url(#pill-shadow)">
-    <rect x="355" y="7" width="175" height="32" rx="16" fill="#FBBC05" opacity="0.12"/>
-    <rect x="355" y="7" width="175" height="32" rx="16" fill="none" stroke="#FBBC05" stroke-width="1.2" opacity="0.5"/>
-    <text x="442" y="24" text-anchor="middle" dominant-baseline="middle"
-          font-family="'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" fill="#FBBC05">
+    <rect x="325" y="7" width="175" height="32" rx="16" fill="#FF9F43" opacity="0.12"/>
+    <rect x="325" y="7" width="175" height="32" rx="16" fill="none" stroke="#FF9F43" stroke-width="1.5" opacity="0.6"/>
+    <text x="412.5" y="24" text-anchor="middle" dominant-baseline="middle"
+          font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="800" fill="#FF9F43" letter-spacing="1">
       Takshashila Studios
     </text>
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3s" repeatCount="indefinite" begin="1s"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="3s" repeatCount="indefinite" begin="1.2s"/>
   </g>
+  
   <!-- Sanzaar -->
   <g filter="url(#pill-shadow)">
-    <rect x="550" y="7" width="110" height="32" rx="16" fill="#34A853" opacity="0.12"/>
-    <rect x="550" y="7" width="110" height="32" rx="16" fill="none" stroke="#34A853" stroke-width="1.2" opacity="0.5"/>
-    <text x="605" y="24" text-anchor="middle" dominant-baseline="middle"
-          font-family="'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" fill="#34A853">
+    <rect x="525" y="7" width="105" height="32" rx="16" fill="#00FF87" opacity="0.12"/>
+    <rect x="525" y="7" width="105" height="32" rx="16" fill="none" stroke="#00FF87" stroke-width="1.5" opacity="0.6"/>
+    <text x="577.5" y="24" text-anchor="middle" dominant-baseline="middle"
+          font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="800" fill="#00FF87" letter-spacing="1">
       Sanzaar
     </text>
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3s" repeatCount="indefinite" begin="1.5s"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="3s" repeatCount="indefinite" begin="1.8s"/>
   </g>
+  
   <!-- Cyber Security -->
   <g filter="url(#pill-shadow)">
-    <rect x="680" y="7" width="100" height="32" rx="16" fill="#4285F4" opacity="0.12"/>
-    <rect x="680" y="7" width="100" height="32" rx="16" fill="none" stroke="#4285F4" stroke-width="1.2" opacity="0.5"/>
-    <text x="730" y="24" text-anchor="middle" dominant-baseline="middle"
-          font-family="'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" fill="#4285F4">
-      B.Tech CSE
+    <rect x="655" y="7" width="125" height="32" rx="16" fill="#BD93F9" opacity="0.12"/>
+    <rect x="655" y="7" width="125" height="32" rx="16" fill="none" stroke="#BD93F9" stroke-width="1.5" opacity="0.6"/>
+    <text x="717.5" y="24" text-anchor="middle" dominant-baseline="middle"
+          font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="800" fill="#BD93F9" letter-spacing="1">
+      Cyber Security
     </text>
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3s" repeatCount="indefinite" begin="2s"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="3s" repeatCount="indefinite" begin="2.4s"/>
   </g>
 </svg>

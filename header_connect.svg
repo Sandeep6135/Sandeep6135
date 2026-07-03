@@ -1,25 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="60">
   <text x="250" y="25" text-anchor="middle" dominant-baseline="middle"
-        font-family="'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="900" fill="#4285F4">
+        font-family="'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="900" fill="#00F7FF">
     🚀 ESTABLISH CONNECTION
     <animateTransform attributeName="transform" type="scale" values="0.9;1;0.9" dur="0.5s" fill="freeze" additive="sum"/>
     <animate attributeName="opacity" values="0;1" dur="0.5s" fill="freeze"/>
   </text>
   <!-- Radar ping rings -->
-  <circle cx="250" cy="48" r="5" fill="none" stroke="#4285F4" stroke-width="1.5">
+  <circle cx="250" cy="48" r="5" fill="none" stroke="#00F7FF" stroke-width="1.5">
     <animate attributeName="r" values="0;40" dur="3s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.8;0" dur="3s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="250" cy="48" r="5" fill="none" stroke="#34A853" stroke-width="1">
+  <circle cx="250" cy="48" r="5" fill="none" stroke="#FF007F" stroke-width="1">
     <animate attributeName="r" values="0;40" dur="3s" repeatCount="indefinite" begin="1s"/>
     <animate attributeName="opacity" values="0.6;0" dur="3s" repeatCount="indefinite" begin="1s"/>
   </circle>
-  <circle cx="250" cy="48" r="5" fill="none" stroke="#FBBC05" stroke-width="1">
+  <circle cx="250" cy="48" r="5" fill="none" stroke="#BD93F9" stroke-width="1">
     <animate attributeName="r" values="0;40" dur="3s" repeatCount="indefinite" begin="2s"/>
     <animate attributeName="opacity" values="0.6;0" dur="3s" repeatCount="indefinite" begin="2s"/>
   </circle>
   <!-- Center ping dot -->
-  <circle cx="250" cy="48" r="2" fill="#4285F4">
+  <circle cx="250" cy="48" r="2" fill="#00F7FF">
     <animate attributeName="r" values="2;3;2" dur="1s" repeatCount="indefinite"/>
   </circle>
 </svg>

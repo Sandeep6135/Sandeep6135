@@ -17,22 +17,22 @@
         font-family="'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="900"
         filter="url(#creative-glow)">
     🎵 CREATIVE CIPHER
-    <animate attributeName="fill" values="#FBBC05;#EA4335;#FBBC05" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#00F7FF;#BD93F9;#FF007F;#00F7FF" dur="4s" repeatCount="indefinite"/>
   </text>
   <!-- Musical note particles floating up -->
-  <text x="130" y="45" font-size="10" fill="#FBBC05">♪
+  <text x="130" y="45" font-size="10" fill="#00F7FF">♪
     <animate attributeName="y" values="50;10" dur="4s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
   </text>
-  <text x="350" y="35" font-size="8" fill="#EA4335">♫
+  <text x="350" y="35" font-size="8" fill="#FF007F">♫
     <animate attributeName="y" values="50;5" dur="3.5s" repeatCount="indefinite" begin="1s"/>
     <animate attributeName="opacity" values="0;1;0" dur="3.5s" repeatCount="indefinite" begin="1s"/>
   </text>
-  <text x="380" y="40" font-size="10" fill="#4285F4">♪
+  <text x="380" y="40" font-size="10" fill="#BD93F9">♪
     <animate attributeName="y" values="55;8" dur="5s" repeatCount="indefinite" begin="2s"/>
     <animate attributeName="opacity" values="0;0.8;0" dur="5s" repeatCount="indefinite" begin="2s"/>
   </text>
-  <text x="110" y="38" font-size="8" fill="#34A853">♫
+  <text x="110" y="38" font-size="8" fill="#00FF87">♫
     <animate attributeName="y" values="48;2" dur="4.5s" repeatCount="indefinite" begin="0.5s"/>
     <animate attributeName="opacity" values="0;0.8;0" dur="4.5s" repeatCount="indefinite" begin="0.5s"/>
   </text>
