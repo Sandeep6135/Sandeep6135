@@ -90,6 +90,16 @@ I am a **Cybersecurity Engineer** and **Creative Technologist** passionate about
 <br/>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandeep6135/Sandeep6135/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandeep6135/Sandeep6135/output/github-snake.svg" />
+    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Sandeep6135/Sandeep6135/output/github-snake.svg" width="100%"/>
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sandeep6135&color=88c0d0&style=flat-square&label=PROFILE+VIEWS"/>
 </div>
 
