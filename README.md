@@ -10,9 +10,9 @@
 
 <p>
   <a href="https://linkedin.com/in/sandeepkarmata"><img src="https://img.shields.io/badge/LinkedIn-Sandeep_Karmata-88C0D0?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
-  <a href="https://tryhackme.com/p/Sandeep6135"><img src="https://img.shields.io/badge/TryHackMe-Sandeep6135-81A1C1?style=flat&logo=tryhackme&logoColor=white"/></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/Sandeep6135"><img src="https://img.shields.io/badge/LeetCode-Sandeep6135-5E81AC?style=flat&logo=leetcode&logoColor=white"/></a>&nbsp;&nbsp;
-  <a href="mailto:Skyline.6135@gmail.com"><img src="https://img.shields.io/badge/Email-Skyline.6135-4C566A?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://tryhackme.com/p/Sandeep.karmata"><img src="https://img.shields.io/badge/TryHackMe-Sandeep.karmata-81A1C1?style=flat&logo=tryhackme&logoColor=white"/></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Sandeep_karmata/"><img src="https://img.shields.io/badge/LeetCode-Sandeep__karmata-5E81AC?style=flat&logo=leetcode&logoColor=white"/></a>&nbsp;&nbsp;
+  <a href="mailto:sandeep.karmata.dev@gmail.com"><img src="https://img.shields.io/badge/Email-sandeep.karmata.dev-4C566A?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 </div>
