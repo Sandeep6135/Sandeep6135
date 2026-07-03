@@ -1,5 +1,9 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,50:4C566A,100:2E3440&height=120&section=header&animation=twinkling"/>
+
+<br/>
+
 <img src="./hero.svg" alt="Sandeep Karmata" width="800"/>
 
 <br/>
@@ -21,7 +25,7 @@ I am a **Cybersecurity Engineer** and **Creative Technologist** passionate about
 
 *   🎓 **Education:** B.Tech in Computer Science and Engineering (Cyber Security) at Parul University.
 *   🛡️ **Specialization:** Web VAPT, DevSecOps Automation (Shift-Left SAST/DAST), and Incident Response.
-*   🎨 **Creative Ventures:** Founder of **Takshashila Studios** and independent music producer **Sanzaar**, playing 10+ instruments.
+*   🎨 **Creative Ventures:** Founder of **Takshashila Studios** and independent music producer **Sandeep Karmata**, playing 10+ instruments.
 
 ---
 
@@ -88,3 +92,7 @@ I am a **Cybersecurity Engineer** and **Creative Technologist** passionate about
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sandeep6135&color=88c0d0&style=flat-square&label=PROFILE+VIEWS"/>
 </div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,50:4C566A,100:2E3440&height=100&section=footer&animation=twinkling"/>
