@@ -86,7 +86,7 @@ I am a **Cybersecurity Engineer** and **Creative Technologist** passionate about
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-stats-extended.vercel.app/api?username=Sandeep6135&show_icons=true&hide_border=true&bg_color=2e3440&title_color=88c0d0&icon_color=81a1c1&text_color=d8dee9&count_private=true&rank_icon=github" alt="GitHub Stats" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Sandeep6135&show_icons=true&hide_border=true&bg_color=2e3440&title_color=88c0d0&icon_color=81a1c1&text_color=d8dee9&count_private=true&rank_icon=github" alt="GitHub Stats" width="100%"/>
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://streak-stats.demolab.com?user=Sandeep6135&hide_border=true&background=2e3440&stroke=4c566a&ring=88c0d0&fire=81a1c1&currStreakLabel=a3be8c&currStreakNum=88c0d0&sideNums=d8dee9&sideLabels=d8dee9&dates=81a1c1" alt="GitHub Streak" width="100%"/>
@@ -98,11 +98,7 @@ I am a **Cybersecurity Engineer** and **Creative Technologist** passionate about
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandeep6135/Sandeep6135/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandeep6135/Sandeep6135/output/github-snake.svg" />
-    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Sandeep6135/Sandeep6135/output/github-snake.svg" width="100%"/>
-  </picture>
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Sandeep6135/Sandeep6135/output/github-snake-dark.svg" width="100%"/>
 </div>
 
 <br/>
